@@ -9,7 +9,7 @@ Here you have the handbook with an overview of language syntax.
 
 ## Imports & Include
 
-See more about [importAndInclude](arithmetic.md).
+See more about [importAndInclude](importAndInclude.md).
 
 ```
 // Import
@@ -65,7 +65,7 @@ x += 1
 
 ## Function
 
-See more about [functions](arithmetic.md).
+See more about [functions](function.md).
 
 ```
 // FUNCTION
@@ -90,7 +90,7 @@ x = $
 
 ## Arithmetics
 
-See more about [arithmetics](arithmetic.md).
+See more about [arithmetics](arithmetics.md).
 
 ```
 // + Addition

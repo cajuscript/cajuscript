@@ -24,9 +24,9 @@ You can see the syntax overview in the [handbook](handbook.md).
 
 About [custom syntax](samples/syntax.md) and these cool proposals:
 
-- [Basic](samples/syntaxBasic.md)
-- [Java](samples/syntaxJava.md)
-- [Portuguese](samples/syntaxPortuguese.md)
+- [Basic](../samples/syntax/basic.md)
+- [Java](../samples/syntax/java.md)
+- [Portuguese](../samples/syntax/portuguese/README.md)
 
 Is very easy to use Java, like this sample:
 
