@@ -38,7 +38,7 @@ sayHello ?
 count = 0
 
 count < 5 @
-    System.out.println('Loop ')
+    System.out.println('Loop '+ count)
     count += 1
 @
 ```
@@ -57,7 +57,7 @@ sayHello ?
 count = 0
 
 count < 5 @
-    System.out.println('Loop ')
+    System.out.println('Loop '+ count)
     count += 1
 @
 ```
