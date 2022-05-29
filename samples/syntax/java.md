@@ -13,4 +13,4 @@ To use this syntax is necessary that first line of the script must be equal at:
 
 See the source code:
 
-- [syntax_java.cj](syntax_java.cj)
+- [java.cj](java.cj)

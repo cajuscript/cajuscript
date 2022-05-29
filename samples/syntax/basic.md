@@ -14,4 +14,4 @@ java -jar cajuscript.jar syntax_basic.cj
 
 See the source code:
 
-- [syntax_basic.cj](syntax_basic.cj)
+- [basic.cj](basic.cj)
