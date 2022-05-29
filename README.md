@@ -1,3 +1,7 @@
+![Logo](https://raw.githubusercontent.com/cajuscript/cajuscript/main/assets/logo.svg)
+
+![image](https://raw.githubusercontent.com/cajuscript/cajuscript/main/assets/social.jpg)
+
 # CajuScript
 
 Fast scripting language for the JVM, compiles to binary class, and full customizable.
